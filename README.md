@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 * I am the Suspension Lead on my university's Baja Racing Team :racing_car:
 
 
-## :floppy_disk: My Projects
+## :floppy_disk: Projects
 Here are a few of my favourite projects:
 * CAD Platform: Platform for engineering teams to manage & collaborate on CAD projects in a centralized workspace
 * Self-cooling Sensor: Temperature-controlled thermometer with an LCD display and fan activation for sensor cooling
