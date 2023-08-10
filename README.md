@@ -41,8 +41,6 @@ Checkout my repositories to learn more about these projects, and to see more!
 <ul>• Arduino</ul>
 <ul>• ARM-Cortex M</ul>
 <ul>• STMicroelectronics</ul>
-<ul>• Oscilloscope</ul>
-<ul>• Multimeters</ul>
 <ul>• SMD Soldering</ul>
 
 ### 💻 Software/Platforms
