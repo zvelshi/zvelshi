@@ -19,6 +19,17 @@ Here are some ideas to get you started:
 * I'm a third year Mechatronics Engineering student 🗜 
 * I am the Suspension Lead on my university's Baja Racing Team :racing_car:
 
+
+## :floppy_disk: My Projects
+A few of my favourite projects include:
+* CAD Platform: Platform for engineering teams to manage & collaborate on CAD projects in a centralized workspace
+* Self-cooling Sensor: Temperature-controlled thermometer with an LCD display and fan activation for sensor cooling
+* Sequential Logic PCB: Cycles through a 10-digit unique number using sequential logic in an finite-state machine
+* Low Strain Beverage Stirrer: Ease-of-operation optimized self-contained beverage stirrer and heater
+* AutoDeal Website: Intuitive MEVN Stack-based website that allows its users to view, sell and buy vehicles
+
+Checkout my repositories to learn more about these projects, and to see more!
+
 ## 🛠️ My Skills
 
 <div align="center">
