@@ -28,7 +28,7 @@ A few of my favourite projects include:
 * Low Strain Beverage Stirrer: Ease-of-operation optimized self-contained beverage stirrer and heater
 * AutoDeal Website: Intuitive MEVN Stack-based website that allows its users to view, sell and buy vehicles
 
-Checkout my repositories to learn more about these projects, and to see more!
+Checkout my repositories to learn more about these projects, and more!
 
 ## 🛠️ My Skills
 
