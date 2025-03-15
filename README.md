@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 
 ## :floppy_disk: Projects
 Here are a few of my favourite projects:
-* CAD Platform: Platform for engineering teams to manage & collaborate on CAD projects in a centralized workspace
 * Self-cooling Sensor: Temperature-controlled thermometer with an LCD display and fan activation for sensor cooling
 * Sequential Logic PCB: Cycles through a 10-digit unique number using sequential logic in an finite-state machine
 * ESP32 Data Logger Web Server: ESP32-based web server allowing remote control of recording and downloading analog data files
